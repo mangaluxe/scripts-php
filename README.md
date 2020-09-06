@@ -1,1 +1,1 @@
-scripts-php
+La plupart des scripts sont volontairement mis sur une seule page (html/css/js) pour avoir une vue d'ensemble et faciliter le copier-coller.
